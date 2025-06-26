@@ -52,24 +52,27 @@
 
 ### 🔹 Ввод параметров (русская версия)
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a85bc70c-00d1-4298-87fb-e370726441bb.png" alt="Форма ввода - Русский">
+  <img src="https://github.com/user-attachments/assets/2aa297db-0e52-4503-af57-2fc2db896d74" alt="Форма ввода - Русский">
 </p>
 
 ---
 
 ### 🔹 Ввод параметров (английская версия)
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fed5b9d1-c41d-44fc-af39-0edd1573e254.png" alt="Форма ввода - English">
+  <img src="https://github.com/user-attachments/assets/fdafb6cf-3d22-4988-bc60-86a1e54f1a02" alt="Форма ввода - English">
 </p>
 
 ---
 
 ### 🔹 Результат предсказания + экспорт в PDF
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38073298-7dcb-4892-aa07-3f5caf412a0d.png" alt="Результат прогноза урожайности">
+  <img src="https://github.com/user-attachments/assets/78e36e52-afe6-461c-8bda-9b68cef79a3e" alt="Результат прогноза урожайности">
 </p>
 
 ---
